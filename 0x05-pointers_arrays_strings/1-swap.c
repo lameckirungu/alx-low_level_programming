@@ -5,15 +5,13 @@
  *
  * @a: An integer to swap
  * @b: Another int to swap
- * 
  * Return: void
  */
 void swap_int(int *a, int *b)
 {
 	int num;
-	
 	/*value of a is assigned to num*/
-       	num = *a;
+	num = *a;
 	/*value of b is assigned to a*/
 	*a = *b;
 	/*value of b is assigned to num*/
