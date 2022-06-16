@@ -3,8 +3,9 @@
 
 /**
  * _strncpy - copies the string src to dest
- * @dest - where the string is being copied to
- * @src - The string being copied
+ * @dest:  where the string is being copied to
+ * @src:  The string being copied
+ * @n: The copy limit
  *
  * Return: The dest string
  */
