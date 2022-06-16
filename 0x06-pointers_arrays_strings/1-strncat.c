@@ -2,9 +2,9 @@
 
 /**
  * _strncat - concatenates two strings
- * @dest - The destination string
- * @src - The source string
- * @n - uses n bytes from source
+ * @dest: The destination string
+ * @src: The source string
+ * @n:  uses n bytes from source
  *
  * Return: returns a pointer to the dest string after concatenating
  */
