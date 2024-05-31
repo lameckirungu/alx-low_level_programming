@@ -17,9 +17,9 @@ def island_perimeter(grid):
     perimeter = 0
     rows = len(grid)
 
-    ''' Calculates the length of the first sublist rep the first row in the grid list.
+    """ Calculates the length of the first sublist rep the first row in the grid list.
     if rows is 0, grid is empty, therefore 0 columns.
-    '''
+    """
     cols = len(grid[0]) if rows > 0 else 0
     
     for i in range(rows):
