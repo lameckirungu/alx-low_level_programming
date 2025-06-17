@@ -1,0 +1,2 @@
+Here's what we'll do once we come back:
+Write a README for the 0x00 repo. Push it. You'll update it later once you are done wtih the other tasks. Make sure you do. Then check if the submission still works.
