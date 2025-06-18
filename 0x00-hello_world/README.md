@@ -1,4 +1,3 @@
-
 # Hello World, C!
 This is the first project and contains solutions to the given C programming challenges. 
 ## Learning Objectives
